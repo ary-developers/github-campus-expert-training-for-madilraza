@@ -35,11 +35,6 @@ repository:
   # rebase-merging.
   allow_rebase_merge: true
 
-# Collaborators: give specific users access to this repository.
-collaborators:
-  - username: phazonoverload
-    permission: push
-
 # Labels: define labels for Issues and Pull Requests
 labels:
   - name: help
