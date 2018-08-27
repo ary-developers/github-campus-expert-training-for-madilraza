@@ -35,10 +35,6 @@ repository:
   # rebase-merging.
   allow_rebase_merge: true
 
-  collaborators:
-  - username: phazonoverload
-    permission: admin
-
 # Labels: define labels for Issues and Pull Requests
 labels:
   - name: help
@@ -56,3 +52,7 @@ labels:
   - name: MODULE-6
   - name: submission
     color: 00CCCC
+    
+collaborators:
+  - username: phazonoverload
+    permission: admin
