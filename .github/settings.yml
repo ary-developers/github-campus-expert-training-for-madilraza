@@ -35,6 +35,10 @@ repository:
   # rebase-merging.
   allow_rebase_merge: true
 
+  collaborators:
+  - username: phazonoverload
+    permission: admin
+
 # Labels: define labels for Issues and Pull Requests
 labels:
   - name: help
