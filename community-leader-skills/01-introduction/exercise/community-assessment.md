@@ -26,10 +26,13 @@ How would you define your community? Try to be open minded, but here are some ex
 - How long has your community existed?
 - How big is your community? Has it always been this size?
 
-## What are your community's shared struggles, and how does this inform your mission?
+## What are your community's shared struggles?
 
 - What are the problems that is or will bring your community members together? They can be anything, but are commonly focussed around working towards better skills, grades or jobs.
-- Based on these problems, what is your community's mission? Keep this short and snappy.
+
+## What is the mission of your community?
+ - Based on your community's shared struggled, what is your community's mission? Keep this short and snappy.
+- Note: this is not your personal mission, but the overarching mission of your community. An example of a mission might be `'Our aim is the equip everyone, regardless of their major, with technical skills to increase their job prospects.'`
 
 ## What do members look to get from your community?
 

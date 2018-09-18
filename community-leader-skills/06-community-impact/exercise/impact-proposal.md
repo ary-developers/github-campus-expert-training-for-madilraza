@@ -4,7 +4,7 @@ Please leave all of the headers in your final submission, and answer each of que
 
 ## Summary of the community's shared struggles
 
-Provide a summary of what you learned from your community assessment, coupled with the feedback from others (like the opinion of existing Campus Experts, community leaders, and stakeholders).
+Provide a summary of what you believe your community's shared struggles to be, coupled with the feedback from others (like the opinion of existing Campus Experts, community leaders, and stakeholders).
 
 ## What does your community look like once it's shared struggles are solved?
 

@@ -3,9 +3,10 @@
 This folder is for submitting solutions to Community Leader Skills training module exercises. 
 
 **Submitting solutions:** 
-- Make all exercise submissions in the same pull request.
-- Navigate to your `submission` branch before you add new commits. You will create this branch during Module 1.
-- Follow the instructions in the module exercise file. 
+- By the end of the training you will have **one** pull request that contains **6 exercises**. 
+- You will open the pull request during Module 1.
+- Each time you attempt an exercise, you will add those commits to the pull request you created in Module 1.
+- Follow the `Submitting the exercise` instructions in each module. 
 
 **Completing the training:**
 

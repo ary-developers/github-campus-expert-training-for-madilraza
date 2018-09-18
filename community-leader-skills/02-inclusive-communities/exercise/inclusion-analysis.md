@@ -4,7 +4,8 @@ Have a think about who might be excluded from your community and why this might 
 
 ## Handling negative scenarios
 
-### What are some of the negative scenarios which might happen while running activities for your community?
+### ### What are some of the negative scenarios which might happen while running activities for your community which will make them less inclusive to marginalized groups?
+
 
 Try and provide at least 4-5 examples
 
@@ -25,6 +26,8 @@ What needs won't you be able to facilitate? Why is this?
 ## Provide a link to your Code of Conduct
 
 Every community should have a clear Code of Conduct. It should be specific about what behavior is encouraged, what is unacceptable, and how you will respond to those who break the rules. It should also be accessible easily online - so please provide a link to it here.
+
+Note: this should be a specific code of conduct for your community, not a generic one. 
 
 # Submitting the exercise
 

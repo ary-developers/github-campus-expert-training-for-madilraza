@@ -34,7 +34,7 @@ To complete the training, you must complete all 7 _training modules_.
 
 You can find more information about the Community Leader Skills training and the modules [here](/community-leader-skills).
 
-Once complete, a reviewer will review your submissions. They may have feedback that will require you to make some changes to your submissions, so make sure you check back on GitHub every now and then! After you complete the training, the quality of your submissions and conduct within the training will determine if you are invited to a screening call. 
+Once you complete all of the exercises, you can submit them. A reviewer will then review your submission. They may have feedback that will require you to make some changes to your submission, so make sure you check back on GitHub every now and then! After you complete the training, the quality of your submission and conduct within the training will determine if you are invited to a screening call. 
 
 ## How does being a Campus Expert work? What are the expectations of a Campus Expert?
 
