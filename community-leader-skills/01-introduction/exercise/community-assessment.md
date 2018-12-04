@@ -74,5 +74,5 @@ Every community changes, and it won't always be yours. In this section you'll st
 - Inside `module-1`, create a file named `community-assessment.md`.
 - Fill the file with the contents of your completed exercise.
 - Commit the changes.
-- Navigate to your pull request and verify that the new commits have been added.
+- [Create a new Pull Request](https://help.github.com/articles/creating-a-pull-request/) from your `submission` branch to `master`. Be sure to read and fill out the Pull Request template! 
 - Remember to complete the [module survey](https://goo.gl/forms/4TgngMoXDDHLL2qE3)
