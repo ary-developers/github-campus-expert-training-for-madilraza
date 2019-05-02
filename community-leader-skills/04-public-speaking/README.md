@@ -42,4 +42,4 @@ This module is complete when:
 -   You have completed the write a proposal exercise.
 -   You have followed the instructions to submit.
 -   A reviewer merges your pull request.
--   You have completed the [survey](https://goo.gl/forms/4TgngMoXDDHLL2qE3).
+
