@@ -16,7 +16,7 @@ Mozzadrella delivers the content in this module.
 
 <img src="https://github.com/mozzadrella.png" href="https://github.com/mozzadrella" title="mozzadrella" width="150"></img>
 
-@mozzadrella is an Instructional Designer at GitHub Education. Her clients and partners include: Mozilla, littleBits, NYU MuseEdLab. Master’s in Educational Technology from Harvard, Former researcher at the MIT Media Lab.
+@mozzadrella is Director, GitHub Education and manages the GitHub Education team. Prior to that, she was Instructional Designer at GitHub Education. Her clients and partners include: Mozilla, littleBits, NYU MuseEdLab. Master’s in Educational Technology from Harvard, Former researcher at the MIT Media Lab.
 
 ## Video 📹
 
@@ -38,4 +38,4 @@ This module is complete when:
 -   You have designed a workshop.
 -   You have followed the instructions to submit.
 -   A reviewer merges your pull request.
--   You have completed the [survey](https://goo.gl/forms/4TgngMoXDDHLL2qE3).
+
