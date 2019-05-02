@@ -50,4 +50,4 @@ In this section, think about how your efforts can expand through your time as a 
 - Fill the file with the contents of your completed exercise.
 - Commit the changes.
 - Navigate to your pull request and verify that the new commits have been added.
-- Remember to complete the [module survey](https://goo.gl/forms/4TgngMoXDDHLL2qE3)
+
