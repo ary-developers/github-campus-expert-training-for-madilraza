@@ -36,4 +36,4 @@ What content, exercises and support will you provide to help learners work towar
 - Fill the file with the contents of your completed exercise.
 - Commit the changes.
 - Navigate to your pull request and verify that the new commits have been added.
-- Remember to complete the [module survey](https://goo.gl/forms/4TgngMoXDDHLL2qE3)
+
