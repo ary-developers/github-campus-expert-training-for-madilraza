@@ -33,4 +33,4 @@ Your abstract should be between 150-200 words as 1-2 paragraphs.
 - Fill the file with the contents of your completed exercise.
 - Commit the changes.
 - Navigate to your pull request and verify that the new commits have been added.
-- Remember to complete the [module survey](https://goo.gl/forms/4TgngMoXDDHLL2qE3)
+
