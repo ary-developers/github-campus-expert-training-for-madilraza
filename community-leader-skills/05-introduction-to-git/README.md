@@ -16,7 +16,7 @@ Patrick McKenna delivers the content in this module.
 
 <img src="https://github.com/patrickmckenna.png" href="https://github.com/patrickmckenna" title="Patrick McKenna" width="150"></img>
 
-Patrick is a data scientist at GitHub. Patrick first joined GitHub on the Training Team, where he enjoyed helping others understand the power and beauty of Git and GitHub.
+Patrick is our former data scientist at GitHub. Patrick first joined GitHub on the Training Team, where he enjoyed helping others understand the power and beauty of Git and GitHub.
 Patrick started with Git and GitHub while developing software for a neutrino physics lab. In prior years, he spent a great deal of time tutoring high school and college students in a variety of subjects. 
 
 ## Video 📹
@@ -40,4 +40,4 @@ This module is complete when:
 -   You have completed the Git explainer.
 -   You have followed the instructions to submit
 -   A reviewer merges your pull request.
--   You have completed the [survey](https://goo.gl/forms/4TgngMoXDDHLL2qE3).
+
