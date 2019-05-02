@@ -17,7 +17,6 @@ To get you ready to finish the training, let's make sure you've done all of the 
     - [ ] I have committed `git-explainer.md`. 
     - [ ] I have committed `impact-proposal.md`.
 - [ ] I have applied the correct labels to my pull request. 
-- [ ] I have completed the [module survey](https://goo.gl/forms/4TgngMoXDDHLL2qE3) for every module.
 
 If you've done all of the above, congratulations! There's just one more step to do: complete the submission form below! 
 
