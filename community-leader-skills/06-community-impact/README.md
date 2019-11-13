@@ -20,9 +20,8 @@ Joe Nash and Mozzadrella deliver the content in this module.
 @mozzadrella is Director, GitHub Education and manages the GitHub Education team. Prior to that, she was Instructional Designer at GitHub Education. Her clients and partners include: Mozilla, littleBits, NYU MuseEdLab. Master’s in Educational Technology from Harvard, Former researcher at the MIT Media Lab.
 
 ### Joe Nash
-<img src="https://github.com/joenash.png" href="https://github.com/joenash" title="Joe Nash" width="150"></img>
 
-[Joe](https://github.com/joenash) is our former Student Program Manager at [GitHub](https://education.github.com), where his job was to tell students to capitalize the 'h' in GitHub :wink: Joe is also the former maintainer of the Campus Expert program, supporting student leaders in building tech communities on campus. Joe is an unrepentant Haskell enthusiast, and has a weakness for the sparkle heart emoji 💖.
+Joe is our former Student Program Manager at [GitHub](https://education.github.com), where his job was to tell students to capitalize the 'h' in GitHub :wink: Joe is also the former maintainer of the Campus Expert program, supporting student leaders in building tech communities on campus. Joe is an unrepentant Haskell enthusiast, and has a weakness for the sparkle heart emoji 💖.
 
 ## Video 📹
 
